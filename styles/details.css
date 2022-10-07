@@ -1,0 +1,17 @@
+section {
+
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: rgb(245, 240, 212);
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(95, 95, 71);
+}
+
+.choices {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 40px;
+    justify-content: space-evenly;
+}
